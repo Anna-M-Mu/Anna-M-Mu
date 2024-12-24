@@ -1,6 +1,7 @@
-<h1 align="center">Hi 👋, I'm Anna</h1>
+<h1 align="center">Hi 👋</h1>
+<h1 align="center">I'm Anna and I'm passionate about data pipelines</h1>
 <!--<img align="right" alt="Working cat" width"400" src="https://res.cloudinary.com/practicaldev/image/fetch/s--trGSZ1sP--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/dd9sgp1plounbt06h904.jpg"> -->
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Here's the languages and tools I use:</h3>
 <div align="center">
   <code><img width="50" src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" alt="Python" title="Python"/></code>
   <code><img width="50" src="https://user-images.githubusercontent.com/25181517/117208740-bfb78400-adf5-11eb-97bb-09072b6bedfc.png" alt="PostgreSQL" title="PostgreSQL"/></code>
